@@ -156,8 +156,7 @@ a:hover, a:active {
 } */
 
 /*Flexbox Styles*/
-.flex-container
-{
+.hero-content {
 display: flex;
 justify-content: center;
 align-items: center;
@@ -214,7 +213,6 @@ align-items: center;
     color: #F1F1F1;
     border: 2px solid #74b44a;
 }
-
 
 
 /* Typography
